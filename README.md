@@ -1,1 +1,2 @@
-# Movie
+# MovieService
+Semister project
